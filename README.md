@@ -73,8 +73,6 @@ https://x.com/evilcos/status/1739474148387385783?s=20
 小心 Solana 上的钓鱼：一笔签名可以几乎转走你目标钱包地址里的所有资产<br>
 https://x.com/evilcos/status/1739187245456961557?s=20
 
-Atomicals 资产燃烧风险<br>
-https://x.com/evilcos/status/1737738046265872455?s=20
 
 比特币低手续费霸占铭文等资产 PSBT 交易风险<br>
 https://x.com/evilcos/status/1735685957662441563?s=20
