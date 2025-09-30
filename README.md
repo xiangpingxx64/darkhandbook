@@ -1,4 +1,4 @@
-# 黑手册(DarkHandBook)
+# 黑手册(DarkHandBook)  ---  来自余弦大佬
 Update by evilcos, for DarkHandBook.io
 
 Blockchain dark forest selfguard handbook<br>
